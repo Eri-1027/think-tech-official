@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <v-img
+      class="mb-5"
+      lazy-src="~@/assets/img/auto/auto12.jpg"
+      src="~@/assets/img/auto/auto12.jpg"
+    />
+  </div>
+</template>

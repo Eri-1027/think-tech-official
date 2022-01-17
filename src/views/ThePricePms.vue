@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <v-img
+      class="mb-5"
+      lazy-src="~@/assets/img/pms/pms12.png"
+      src="~@/assets/img/pms/pms12.png"
+    />
+  </div>
+</template>
